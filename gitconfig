@@ -1,8 +1,8 @@
 [user]
-	name = Henrik Nyh
-	email = henrik@nyh.se
+	name = Andrei Roman
+	email = claudiu.andrei.roman@icloud.com
 [core]
-	excludesfile = /Users/henrik/.gitignore
+	excludesfile = /Users/andrei/.gitignore
 	ignorecase = false
 	pager = less -R
 [color]
@@ -48,4 +48,4 @@
 
 # This next lines include Netlify's Git Credential Helper configuration in your Git configuration.
 [include]
-  path = /Users/henrik/.netlify/helper/git-config
+  path = /Users/andrei/.netlify/helper/git-config
