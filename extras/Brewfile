@@ -14,30 +14,19 @@ brew "asdf"
 brew "vim"
 
 # Find more with `brew search my_guess_at_the_name`.
-cask "google-chrome"
 cask "iterm2"
-cask "spotify"
 cask "zoomus"  # https://zoom.us
-cask "mailplane"
-cask "fantastical"
-cask "alfred"
-cask "istat-menus"
-cask "backblaze"
-cask "imageoptim"
-cask "licecap"
-cask "dash"
-cask "vlc"
 cask "firefox"
 cask "vagrant"
 cask "virtualbox"
 
 # Mac App Store
 # "Copy Link" from the App Store UI to get the ID.
-mas "Divvy", id: 413857545
 mas "1Password", id: 1333542190
 mas "Slack", id: 803453959
-mas "Shush", id: 496437906
-mas "The Unarchiver", id: 425424353
 mas "Pages", id: 409201541
 mas "Numbers", id: 409203825
+mas "Keynote", id: 409183694
 mas "Xcode", id: 497799835
+mas "Trello", id: 1278508951
+mas "Telegram", id: 747648890
